@@ -28,8 +28,7 @@
     post_type VARCHAR(255),
     page_category VARCHAR(255),
     page_name VARCHAR(255),
-    content TEXT,
-    label VARCHAR(30)
+    content TEXT
   );
   ```
 
@@ -52,8 +51,7 @@
     post_type VARCHAR(255),
     page_category VARCHAR(255),
     page_name VARCHAR(255),
-    content TEXT,
-    label VARCHAR(30)
+    content TEXT
   );
   ```
 
