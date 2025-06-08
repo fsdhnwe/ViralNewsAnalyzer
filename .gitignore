@@ -5,3 +5,4 @@ labeled_posts_3000.csv
 data/
 parsed_posts_jsonfile/
 results/
+milvus/
